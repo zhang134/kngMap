@@ -38,6 +38,12 @@ Input Sequences Requirements
 ----------------------------
 Input file requires fasta or fastq format
 
+Execute Step
+------------
+Step 1: compile codes using make command
+Step 2: ./locate or ./kngmap then come out help information options reuired
+
+
 A running example
 -----------
 ./locate genome.fa reads.fa >pos.txt
