@@ -41,7 +41,7 @@ Input file requires fasta or fastq format
 Execute Step
 ------------
 Step 1: compile codes using make command
-Step 2: ./locate or ./kngmap then come out help information options reuired
+Step 2: ./locate or ./kngmap then come out help information and options reuired
 
 
 A running example
