@@ -249,7 +249,7 @@ int main(int argc, char *argv[]){
                         free(reads[i].header);
                         free(reads[i].seq_is);
                         free(reads[i].cigar);
-                        free(reads[i].kmerlist);
+                        //free(reads[i].kmerlist);
                         //if (reads[i].reverse_calculated){
 			//	free(reads[i].seq_reverse);
 			//}
